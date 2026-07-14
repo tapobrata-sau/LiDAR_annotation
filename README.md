@@ -36,8 +36,7 @@ The repository includes documentation of the annotation workflow along with a **
 LiDAR-Interpolation-Tracking/
 │
 ├── README.md
-├── videos/
-   └── tracking_demo.mp4
+├── bandicam 2026-07-13 15-23-41-288
 
 ```
 
@@ -78,7 +77,7 @@ The repository contains a screen recording demonstrating:
 Video Location:
 
 ```
-videos/tracking_demo.mp4
+bandicam 2026-07-13 15-23-41-288
 ```
 
 ---
